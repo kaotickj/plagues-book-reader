@@ -22,7 +22,7 @@ Reader is not a full system screen reader. It does not announce desktop focus, i
 4. For an existing compatible local installation, follow [Using Reader](docs/Using-Reader.md) and [Troubleshooting](docs/Troubleshooting.md).
 5. Check [Release decisions](docs/Release-decisions.md) before treating this preview as a software release.
 
-The actual [GitHub Wiki](https://github.com/kaotickj/plagues-book-reader/wiki) is **not initialized yet**. Its first page must be created in an authenticated GitHub browser session before the staged pages can be pushed to the Wiki repository. The `wiki/` directory holds the prepared pages; these files are not a substitute for a live Wiki. Until initialization, use the working `docs/` links above.
+The live [GitHub Wiki](https://github.com/kaotickj/plagues-book-reader/wiki) covers [setup](https://github.com/kaotickj/plagues-book-reader/wiki/Setup), [engines and models](https://github.com/kaotickj/plagues-book-reader/wiki/Engines-and-models), [Sabrina and custom voices](https://github.com/kaotickj/plagues-book-reader/wiki/Voices), usage and troubleshooting. The repository’s `docs/` and `wiki/` directories retain the corresponding documentation.
 
 ## Custom voices
 
