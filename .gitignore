@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+*.log
+state*.json
+*.sqlite3
+config.local.json

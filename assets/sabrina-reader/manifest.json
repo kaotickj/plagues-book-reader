@@ -1,0 +1,17 @@
+{
+  "name": "Sabrina Reader",
+  "file": "voices/sabrina-reader.wav",
+  "sha256": "9dbcef8815ad5e50b070bd64708c6228b4f7d350f6f44e60f339c753da4a7fef",
+  "pcm_sha256": "d4dd36001f00260c22673b4265ce4c7f666a02b386b0924983bab4a3e3d02fb0",
+  "sample_rate": 48000,
+  "channels": 2,
+  "sample_width_bytes": 2,
+  "frames": 5690232,
+  "duration_seconds": 118.5465,
+  "metadata_chunks": [
+    "fmt ",
+    "data"
+  ],
+  "publication_authorized_by_owner": true,
+  "general_redistribution_license": "Not assigned; see NOTICE.md"
+}
